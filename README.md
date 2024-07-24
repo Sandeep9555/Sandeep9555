@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS And NodeJS**
 
-- 📫 How to reach me **sandeepsingg988949@gmail.com**
+- 📫 How to reach me **sandeepsingg6392@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
 
