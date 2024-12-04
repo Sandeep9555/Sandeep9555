@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **HeartBridge-A Dating Application**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, PWskills Sigma Batch**
+- 🌱 I’m currently learning **Redis,MongoDb**
 
-- 💬 Ask me about **ReactJS And NodeJS**
+- 💬 Ask me about **DataStrucutre and Mern Stack**
 
 - 📫 How to reach me **sandeepsingg6392@gmail.com**
 
